@@ -1,6 +1,6 @@
 # MovieTime 🎬
 
-A full-stack movie ticket booking platform built with the MERN stack. Browse now-playing movies, view showtimes, book seats, and manage bookings — with a dedicated admin dashboard for adding shows and tracking sales.
+A full-stack movie ticket booking platform built with the MERN stack. Browse now-playing movies, view showtimes, book seats, and manage bookings with a dedicated admin dashboard for adding shows and tracking sales.
 
 ## Features
 
